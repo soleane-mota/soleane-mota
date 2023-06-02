@@ -1,8 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Soleane+M+Macena&fontSize=50"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a277ff&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+Meu+nome+%C3%A9+Soleane;Tenho+35+anos+e+sou+do+Amazonas;Sou+estudante+de+Desenvolvimento+Web;Seja+bem+Vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a277ff&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+Seja+bem+Vindo(a)!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=soleane-mota&bg_color=0d1117&color=a277ff&line=61ffca&point=a277ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+Sou mulher, mãe de adolesceste e apaixonada por códigos. Trabalhei na área de vendas, informalmente, o que me deu experiência em lidar com pessoas e ajudou no desenvolvimento das minhas Soft Skills.
+
+A programação entrou em vários momento da minha vida, hoje sou estudante da Trybe e desenvolvedora web Front-end, futura engenheira de softwares.
+Tenho uma base em lógica computacional bem concistente e bom conhecimento em Front-end. Atualmente estou concluindo Back-end.
+
+Sou resiliênte, organizada e comunicativa, sempre desenvolvendo a arte da escuta ativa e comunicação não violenta.
+
+#
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=soleane-mota&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -30,12 +37,6 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
-</div>
-
-## Estudando no mometo:
-<div align="left">
-<a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
 </div>
 
 ##

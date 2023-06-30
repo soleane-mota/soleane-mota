@@ -6,7 +6,7 @@ Sou mulher, mãe de adolesceste e apaixonada por códigos. Trabalhei na área de
 
 A programação entrou em vários momento da minha vida, hoje sou estudante da Trybe e desenvolvedora web Front-end, futura engenheira de softwares.
 Tenho uma base em lógica computacional bem concistente e bom conhecimento em Front-end. Recentimente concluí Back-end e estou encantada com a Programação Orientada a Objeto (POO) e a aplicação dos princípios S.O.L.I.D.
-Neste momento, estou estudando o Módulo de Ciências da Computação, aprendendo estruturas de dados classicas e aprimorando a compreenção de performance da aplicação e as estratégias para solução de problemas.
+Neste momento, estudo o Módulo de Ciências da Computação, aprendendo estruturas de dados classicas e aprimorando a compreenção de performance da aplicação e as estratégias para solução de problemas.
 
 Sou resiliênte, organizada e comunicativa, sempre desenvolvendo a arte da escuta ativa e comunicação não violenta.
 

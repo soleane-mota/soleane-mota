@@ -5,10 +5,13 @@
 Sou mulher, mãe de adolesceste e apaixonada por códigos. Trabalhei na área de vendas, informalmente, o que me deu experiência em lidar com pessoas e ajudou no desenvolvimento das minhas Soft Skills.
 
 A programação entrou em vários momento da minha vida, hoje sou estudante da Trybe e desenvolvedora web Front-end, futura engenheira de softwares.
-Tenho uma base em lógica computacional bem concistente e bom conhecimento em Front-end. Recentimente concluí Back-end e estou encantada com a Programação Orientada a Objeto (POO) e a aplicação dos princípios S.O.L.I.D.
-Neste momento, estudo o Módulo de Ciências da Computação, aprendendo estruturas de dados clássicas e aprimorando a compreensão de performance da aplicação e as estratégias para solução de problemas.
+Possuo uma sólida base em lógica computacional e um amplo conhecimento tanto em Front-end quanto em Back-end. Ao longo do caminho, adquiri habilidades em Programação Orientada a Objetos (POO) e a aplicação dos princípios S.O.L.I.D.
 
-Sou resiliênte, organizada e comunicativa, sempre desenvolvendo a arte da escuta ativa e comunicação não violenta.
+Tenho interesse em aprofundar meu entendimento sobre a arquitetura de aplicações, buscando aprimorar o desempenho e solucionar problemas.
+
+Atualmente, estou focada em aprofundar meus estudos na linguagem Java e amado trabalhar com a família Spring (Spring Boot, Spring Web, Spring Data JPA, entre outros).
+
+Minhas características pessoais incluem resiliência, organização e uma natureza comunicativa. Estou constantemente aprimorando a arte da escuta ativa e a comunicação não violenta.
 
 #
 
@@ -52,6 +55,16 @@ Sou resiliênte, organizada e comunicativa, sempre desenvolvendo a arte da escut
 [![TypeScript][ts-badge]][ts-url]
 [![ts-node][ts-node-badge]][ts-node-url]
 [![BCrypt][bcrypt-badge]][bcrypt-url]
+[![Phyton][py-badge]][py-url]
+[![Java][java-badge]][java-url]
+[![JUnit][junit-badge]][junit-url]
+[![Spring][spring-badge]][spring-url]
+[![Spring Boot][springb-badge]][springb-url]
+
+####
+[![VSCode][vscode-badge]][vscode-url]
+[![Eclipse][eclipse-badge]][eclipse-url]
+[![IntelliJ][intellij-badge]][intellij-url]
 
 ##
 <div align="left">
@@ -108,6 +121,16 @@ Sou resiliênte, organizada e comunicativa, sempre desenvolvendo a arte da escut
 [ts-node-url]: https://www.npmjs.com/package/ts-node
 [bcrypt-badge]:  https://img.shields.io/badge/BCrypt.js-a103fc?style=for-the-badge
 [bcrypt-url]: https://www.npmjs.com/package/bcryptjs?activeTab=readme
+[py-badge]: https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
+[py-url]: https://www.python.org/
+[java-badge]: https://img.shields.io/badge/Java-e6e6fa?style=for-the-badge&logo=openjdk&logoColor=red
+[java-url]: https://www.java.com/pt-BR/
+[junit-badge]: https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white
+[junit-url]: https://junit.org/junit5/docs/current/user-guide/
+[spring-badge]: https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
+[spring-url]: https://spring.io/
+[springb-badge]: 	https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot
+[springb-url]: https://spring.io/projects/spring-boot
 
 [postgresql-badge]: https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
 [postgresql-url]: https://www.postgresql.org/
@@ -119,3 +142,9 @@ Sou resiliênte, organizada e comunicativa, sempre desenvolvendo a arte da escut
 [angular-url]: https://angular.io/
 [linux-badge]: 	https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
 [linux-url]: https://www.linux.org/
+[vscode-badge]: https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
+[vscode-url]: https://code.visualstudio.com/
+[eclipse-badge]: https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white
+[eclipse-url]: https://eclipseide.org/
+[intellij-badge]: https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white
+[intellij-url]: https://www.jetbrains.com/pt-br/idea/

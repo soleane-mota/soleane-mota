@@ -4,14 +4,14 @@
 
 Sou mulher, mãe de adolesceste e apaixonada por códigos. Trabalhei na área de vendas, informalmente, o que me deu experiência em lidar com pessoas e ajudou no desenvolvimento das minhas Soft Skills.
 
-A programação entrou em vários momento da minha vida, hoje sou estudante da Trybe e desenvolvedora web Front-end, futura engenheira de softwares.
+A programação entrou em vários momento da minha vida, hoje faço Bacharelado em Engenharia de Software e sou desenvolvedora web Full Stack.
 Possuo uma sólida base em lógica computacional e um amplo conhecimento tanto em Front-end quanto em Back-end. Ao longo do caminho, adquiri habilidades em Programação Orientada a Objetos (POO) e a aplicação dos princípios S.O.L.I.D.
 
-Tenho interesse em aprofundar meu entendimento sobre a arquitetura de aplicações, buscando aprimorar o desempenho e solucionar problemas.
+Tenho interesse em arraigar meu entendimento sobre a arquitetura de aplicações, buscando aprimorar o desempenho e solucionar problemas.
 
 Atualmente, estou focada em aprofundar meus estudos na linguagem Java e amado trabalhar com a família Spring (Spring Boot, Spring Web, Spring Data JPA, entre outros).
 
-Minhas características pessoais incluem resiliência, organização e uma natureza comunicativa. Estou constantemente aprimorando a arte da escuta ativa e a comunicação não violenta.
+Minhas características pessoais incluem resiliência, organização e uma natureza comunicativa. Estou constantemente aprimorando a arte da escuta ativa, a comunicação não violenta e comunicação assíncrona.
 
 #
 

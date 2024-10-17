@@ -21,7 +21,7 @@ Minhas características pessoais incluem resiliência, organização e uma natur
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=soleane-mota&show_icons=true&theme=aura&count_private=true&bg_color=0d1117" alt="Soleane github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=soleane-mota&show_icons=true&locale=en&layout=compact&theme=aura&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=soleane-mota&show_icons=true&locale=en&count_private=true&layout=compact&theme=aura&bg_color=0d1117" />
 </div>
 
 <div align="center"> 
